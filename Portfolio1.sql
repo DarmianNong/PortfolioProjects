@@ -1,3 +1,6 @@
+SQL Data Exploration
+--------------------
+
 SELECT
 	Location,
 	date,
